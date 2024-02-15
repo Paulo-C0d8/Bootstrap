@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0px;
+}
+
+body {
+    margin: 80px;
+}
+
+body label {
+    padding: 6px;
+}
+
+body input {
+    display: block;
+    padding: 4px;
+    align-items: center;
+}
+
+button {
+    margin-top: 8px;
+    padding: 8px 16px;
+}
